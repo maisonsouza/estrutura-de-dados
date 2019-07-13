@@ -4,9 +4,10 @@
 
 ### Bem vindo ao curso
 * Vantagens e Desvantagens.
-* 
 
 ### Armazenamento sequencial e Vetores
+* Armazenamento Sequencial (Arrray)
+* 
 
 ### Listas Ligadas
 
