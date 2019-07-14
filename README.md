@@ -7,7 +7,7 @@
 
 ### Armazenamento sequencial e Vetores
 * Armazenamento Sequencial (Arrray)
-* 
+* ArrayList é um vetor por baixo dos panos.
 
 ### Listas Ligadas
 
